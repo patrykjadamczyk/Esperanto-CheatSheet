@@ -183,6 +183,10 @@ mal- | Przeciwieństwo | malpli | mniej
 ge- | Obie płcie | gepatroj | rodzice
 po- | Powinowactwo przez małżeństwo | bopatro | teść
 pra- | Dawny charakter pojęcia / pierwotność | praavo | pradziadek
+dis- | roz- | disdoni | rozdawać
+ek- | Początek jakiejś czynności lub jej krótkotrwałość | ekkanti | zaśpiewać
+eks- | eks- / były | eksministro | były minister
+fi- | Pogarda / Obrzydzenie / Niechęć (w sensie moralnym) | fihomo | podlec / nędznik
 
 ### Infixy
 
@@ -208,6 +212,8 @@ Infix | Znaczenie | Przykład | Tłumaczenie przykładu
 -ad- | Powtarzalność / przedłużenie trwania jakiejś czynności | farado | robienie
 -ebl- | Możliwość | manĝebla | jadalny
 -ec- | Znaczenie oderwane / abstrakcyjne | boneco | dobroć
+-er- | Czastka czegoś | monero | moneta
+-ing- | Nasada / oprawa / pochwa | cigaringo | cygarniczka
 
 ### Suffixy
 
@@ -257,6 +263,15 @@ eble        | być może
 ebleco      | możliwość / możność
 ebligi      | umożliwiać
 eco         | cecha
+disa        | osobny / rozdzielony / oddzielny
+dise        | osobno / rozdzielnie / oddzielnie
+ek!         | ruszaj! / zaczynaj! (wykrzyknik)
+eki         | rozpoczynać się
+eksa        | były
+ero         | cząstka
+ingo        | pochwa / nasada / oprawka
+ingi        | włożyć do pochwy / nasadzić
+malingi     | wyjąć z pochwy / oprawy
 
 ### Specjalne rdzenie wyrazowe
 
@@ -297,6 +312,17 @@ dum | podczas / w czasie / w ciągu (spójnik)
 el | z / ze (kogo / czego)
 krom | prócz / oprócz / poza
 malgraû | mimo / pomimo
+per | za pomocą / przy pomocy / przez
+po | po
+por | dla / do / za / w zamian
+pri | o / odnośnie / co się tyczy
+pro | z powodu / ze względu / z uwagi na / dla
+sen | bez
+kun | z / razem z (kim / czym)
+anstataû | zamiast / w miejsce
+de | od / z / ze (tworzenie dopełniacza) [przynależność]
+da | wyrażanie ilości (po słowie wyrażającym miarę) [ilość]
+je | przyimek uniwersalny (stosowany wtedy gdy inny nie pasuje do wyrażenia danej myśli)
 
 #### Przyimki - Prefixy, Infixy, Suffixy
 
@@ -324,6 +350,12 @@ dum- | podczas / w czasie / w ciągu czegoś | dumnokta | nocny (mający miejsce
 el- | zabierać coś z czegoś | elaĉeti | wykupywać
 krom- | coś oprócz czegoś | kromefiko | skutek uboczny
 malgraû- | mimo czegoś | malgraûvola | mimowolny / bezwiedny
+per- | za pomocą czegoś | prelabori | zapracować
+po- | po czymś | popece | po kawałku
+pri- | o czymś | pridiskuti | omawiać / przedyskutować
+sen- | bez czegoś | senbaza | bezpodstawny
+kun- | współ* | kunagi | współdziałać
+de- | od / z / ze czegoś | deveni | pochodzić
 
 #### Przyimki - Słowa
 
@@ -359,6 +391,19 @@ kontraûe | przeciwnie / naprzeciw
 kontraûi | sprzeciwiaĉ si / byĉ przeciwnym
 dume | w tym czasie / tymczasem
 ele | na zewnątrz
+peri | pośredniczyć
+pera | pośredni / pośredniczący
+kune | razem
+anstataûi | zastępować
+anstataûa | zastępczy / zapasowy
+anstataûe | zastępczo / zamiast
+
+#### Konstrukcje wyrazowe
+
+Konstrukcja wyrazowa | Znaczenie
+---------------------|----------
+pere de | za pośrednictwem
+kune kun | razem z
 
 ### Spójniki
 
@@ -370,6 +415,18 @@ kaj | i / a
 aû | lub / albo
 sed | ale / lecz
 nek | ani / ani nie / ani nawet
+ke | że / aby / żeby
+ĉu | czy
+ĉar | ponieważ / dlatego że / gdyż
+dum | podczas gdy / w czasie gdy (jest też przyimkiem)
+kvankam | chociaż / aczkolwiek
+apenaû | ledwie / ledwie co
+kvazaû | jak gdyby (sytuacja nierzeczywista, z użyciem trybu przypuszczającego)
+se | jeśli / gdyby
+do | zatem / więc / przeto
+tamen | jednak / niemniej / wszakże
+nome | mianowice
+cetere | zresztą
 
 #### Konstrukcje wyrazowe
 
@@ -381,6 +438,13 @@ aû `coś` aû `coś` | albo ... albo ...
 jen `coś` jen `coś` | to ... to ...
 ju `coś` des `coś` | im ... tym ...
 des pli | tym bardziej / tym więcej
+ĝis kiam | aż / do chwili gdy / dopóki
+antaû ol | zanim (alternatywna forma dla `antaû kiam`)
+eĉ se | nawet gdy / nawet gdyby
+escepte se | za wyjątkiem / chyba że
+malgraû ke | pomimo e / chociaż
+kondiĉe ke | pod warunkiem że
+post kiam | po tym jak (rzadziej używana alternatywa dla `post ol`)
 
 ## Zasady
 
