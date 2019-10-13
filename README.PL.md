@@ -175,9 +175,23 @@ Końcówka | Znaczenie | Przykład | Tłumaczenie przykładu
 -onte | Imiesłów Teraźniejszy Przysłowny Czynny | legonte | mając czytać
 -ote | Imiesłów Teraźniejszy Przysłowny Bierny | atakote | mając być zaatakowanym
 
-### Prefixy
+### Gramatyczne konstrukcje wyrazowe
 
-Prefix | Znaczenie | Przykład | Tłumaczenie przykładu
+Konstrukcja wyrazowa | Znaczenie
+---------------------|-----------
+estis `słowo`ata | Czas przeszły niedokonany
+estas `słowo`ata | Czas teraźniejszy niedokonany
+estos `słowo`ata | Czas przyszły niedokonany
+estis `słowo`ita | Czas przeszły dokonany
+estas `słowo`ita | Czas teraźniejszy dokonany
+estos `słowo`ita | Czas przyszły dokonany
+estis `słowo`ota | Czas przeszły wyrażający czynność przyszłą
+estas `słowo`ota | Czas teraźniejszy wyrażający czynność przyszłą
+estos `słowo`ota | Czas przyszły wyrażający czynność przyszłą
+
+### Przedrostki
+
+Przedrostek | Znaczenie | Przykład | Tłumaczenie przykładu
 -------|-----------|----------|----------------------
 mal- | Przeciwieństwo | malpli | mniej
 ge- | Obie płcie | gepatroj | rodzice
@@ -187,10 +201,13 @@ dis- | roz- | disdoni | rozdawać
 ek- | Początek jakiejś czynności lub jej krótkotrwałość | ekkanti | zaśpiewać
 eks- | eks- / były | eksministro | były minister
 fi- | Pogarda / Obrzydzenie / Niechęć (w sensie moralnym) | fihomo | podlec / nędznik
+mis- | Błędne / omyłkowe / niewłaściwe wykonanie | miskompreni | błędnie zrozumieć
+re- | Powrót / powtórzenie / ponowne wykonanie | resendi | odsyłać
+ĉef- | Waga / Znaczenie / Ranga | ĉefstrato | główna ulica
 
-### Infixy
+### Przyrostki
 
-Infix | Znaczenie | Przykład | Tłumaczenie przykładu
+Przyrostek | Znaczenie | Przykład | Tłumaczenie przykładu
 ------|-----------|----------|----------------------
 -in- | Forma żeńska | patrino | matka
 -an- | Przynależność | urbano | mieszkaniec miasta
@@ -214,11 +231,12 @@ Infix | Znaczenie | Przykład | Tłumaczenie przykładu
 -ec- | Znaczenie oderwane / abstrakcyjne | boneco | dobroć
 -er- | Czastka czegoś | monero | moneta
 -ing- | Nasada / oprawa / pochwa | cigaringo | cygarniczka
-
-### Suffixy
-
-Suffix | Znaczenie | Przykład | Tłumaczenie przykładu
--------|-----------|----------|----------------------
+-ism- | Doktryna / ruch / system / sposób myślenia / sposób działania | koloniismo | kolonializm
+-uj- | Nazwa pojemnika, naczynia, opakowania / nazwy drzew i krzewów od nazw owoców lub kwiatów / nazwy państw od narodowości | abelujo | ul
+-estr- | Osoba kierująca / przełożony | urbestro | burmistrz / prezydent miasta
+-ĉj- | Pieszczotliwe zdrobnienie męskiego imienia lub tytułu | paĉjo | tatuś
+-nj- | Pieszczotliwe zdrobnienie żeńskiego imienia lub tytułu | onjo | ciocia
+-um- | Przyrostek uniwersalny stosowany tam gdzie nie pasują inne przyrostki | kolumo | kołnierz
 
 ### Konstrukcje wyrazowe
 
@@ -227,7 +245,7 @@ Konstrukcja wyrazowa | Znaczenie | Przykład | Tłumaczenie przykładu
 igi `słowo` | zrobić coś czymś / spowodować by ktoś coś zrobił | igi varma | zrobić coś ciepłym
 iĝi `słowo` | stać się jakimś | iĝi laca | stać się zmęczonym
 
-### Słowa specjalne z Prefixów, Infixów, Suffixów
+### Słowa specjalne z Przedrostków i Przyrostków
 
    Słowo    | Znaczenie
 ------------|----------
@@ -272,6 +290,16 @@ ero         | cząstka
 ingo        | pochwa / nasada / oprawka
 ingi        | włożyć do pochwy / nasadzić
 malingi     | wyjąć z pochwy / oprawy
+ismo        | doktryna / wiara / system
+misa        | błędny / niewłaściwy
+misi        | mylić się / nie trafić
+ree         | ponownie / jeszcze raz
+ujo         | pojemnik / naczynie / opakowanie
+ĉefo        | szef / naczelnik / przełożony
+ĉefa        | główny / naczelny / zwierzchni
+ĉefe        | głównie / przede wszystkim
+estro       | kierownik / przełożony
+estri       | kierować / przewodzić
 
 ### Specjalne rdzenie wyrazowe
 
@@ -324,9 +352,9 @@ de | od / z / ze (tworzenie dopełniacza) [przynależność]
 da | wyrażanie ilości (po słowie wyrażającym miarę) [ilość]
 je | przyimek uniwersalny (stosowany wtedy gdy inny nie pasuje do wyrażenia danej myśli)
 
-#### Przyimki - Prefixy, Infixy, Suffixy
+#### Przyimki - Przedrostki, Przyrostki
 
-Prefix / Infix / Suffix | Znaczenie | Przykład | Tłumaczenie przykładu
+Przedrostki, Przyrostki | Znaczenie | Przykład | Tłumaczenie przykładu
 ------------------------|-----------|----------|----------------------
 en- | Kierunek | enskribi | wpisywać
 apud- | Przy* | apudborda | przybrzeżny
