@@ -65,9 +65,18 @@ Na zaimek zwrotny można nadać liczbę mnogą.
 
 ### Tabela zaimków rzeczownych, przymiotnych i przysłownych
 
-Kategoria zaimka | Pytający-względny | Wskazujący | Upowszechniający | Nieokreślony | Przeczący
------------------|-------------------|------------|------------------|--------------|----------
-Osoba | **kiu** *kto, który* | **tiu** *tamten* | **ĉiu** *każdy* | **iu** *ktoś, jakiś* | **neniu** *nikt, żaden*
+Kategoria zaimka |         Pytający-względny        |         Wskazujący        |          Upowszechniający         |            Nieokreślony           |           Przeczący
+-----------------|----------------------------------|---------------------------|-----------------------------------|-----------------------------------|-----------------------------
+Osoba            | **kiu** *kto, który*             | **tiu** *tamten*          | **ĉiu** *każdy*                   | **iu** *ktoś, jakiś*              | **neniu** *nikt, żaden*
+Przedmiot        | **kio** *co*                     | **tio** *tamto*           | **ĉio** *wszystko*                | **io** *coś*                      | **nenio** *nic*
+Cecha            | **kia** *jaki*                   | **tia** *taki*            | **ĉia** *wzszelki*                | **ia** *jakikolwiek*              | **nenia** *żaden*
+Przynależność    | **kies** *czyj, którego*         | **ties** *tego*           | **ĉies** *każdego, wszystkich*    | **ies** *czyjś*                   | **nenies** *niczyj*
+Miejsce          | **kie** *gdzie*                  | **tie** *tam*             | **ĉie** *wszędzie*                | **ie** *gdzieś*                   | **nenie** *nigdzie*
+Sposób           | **kiel** *jak, w jaki sposób*    | **tiel** *tak*            | **ĉiel** *wszelkim sposobem*      | **iel** *jakoś*                   | **neniel** *w żaden sposób*
+Czas             | **kiam** *gdy, kiedy*            | **tiam** *wtedy*          | **ĉiam** *zawsze*                 | **iam** *kiedyś, kiedykolwiek*    | **neniam** *nigdy*
+Liczba           | **kiom** *ile*                   | **tiom** *tyle*           | **ĉiom** *wszelka ilość*          | **iom** *trochę, nieco*           | **neniom** *żadna ilość*
+Przyczyna        | **kial** *dlaczego*              | **tial** *dlatego*        | **ĉial** *z każdego powodu*       | **ial** *dlaczegoś*               | **nenial** *z żadnego powodu*
+
 
 ## Liczebniki
 
